@@ -31,3 +31,5 @@ The main objective of this project is to create an accurate and reliable model f
 ## Deployment
 
 To make the brain tumor detection model accessible, we have deployed it using Streamlit.
+<img width="967" alt="Screenshot 2023-09-06 at 8 33 04 PM" src="https://github.com/haabiba-alaa/Brain-Tumor-Detection/assets/113467065/2374d74e-a2f2-492c-a445-c473662c2b04">
+
