@@ -31,7 +31,7 @@ The main objective of this project is to create an accurate and reliable model f
 
 ## Deployment
 
-<img width="967" alt="Screenshot 2023-09-06 at 8 33 04 PM" src="https://github.com/haabiba-alaa/Brain-Tumor-Detection/assets/113467065/2374d74e-a2f2-492c-a445-c473662c2b04">
+<img width="922" alt="Screenshot 2023-09-06 at 8 37 45 PM" src="https://github.com/haabiba-alaa/Brain-Tumor-Detection/assets/113467065/0a305f1f-3c42-4f81-a3a7-ea6b66e1d939">
 <img width="922" alt="Screenshot 2023-09-06 at 8 35 25 PM" src="https://github.com/haabiba-alaa/Brain-Tumor-Detection/assets/113467065/b55eccbc-54f1-4f65-b2a9-f3a56c1a4abe">
 <img width="922" alt="Screenshot 2023-09-06 at 8 35 36 PM" src="https://github.com/haabiba-alaa/Brain-Tumor-Detection/assets/113467065/1b636bcd-9bc8-491a-a9ee-83276952dcc7">
 
