@@ -22,7 +22,7 @@ In this project, We Did:
 
 5. **Model Evaluation**: Evaluate the trained model's performance on a separate test dataset, using metrics such as accuracy, precision, recall, and F1-score.
 
-6. **Deployment**: Deploy the trained model to make it accessible for real-world use. You can choose to deploy it as a web application, a REST API, or in a cloud environment for easy access by medical professionals or researchers.
+6. **Deployment**: Deploy the trained model to make it accessible for real-world use. We deployed it using Streamlit.
 
 ## Project Goals
 
@@ -30,6 +30,5 @@ The main objective of this project is to create an accurate and reliable model f
 
 ## Deployment
 
-To make the brain tumor detection model accessible, we have deployed it using Streamlit.
 <img width="967" alt="Screenshot 2023-09-06 at 8 33 04 PM" src="https://github.com/haabiba-alaa/Brain-Tumor-Detection/assets/113467065/2374d74e-a2f2-492c-a445-c473662c2b04">
 
